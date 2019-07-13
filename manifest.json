@@ -1,0 +1,38 @@
+{
+  "name": "Mp3 Terbaru",
+  "short_name": "Mp3 Terbaru",
+  "start_url": "https://www.blogmp3terbaru.xyz",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog review dan download lagu mp3 gratis, mudah, cepat dan lengkap full album Rar Zip.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-wNJT4wocG5M/XSoA0THVfFI/AAAAAAAAAF4/T6H2pOBQDPcFDbheU1I3gMj9XY3yxNYlwCLcBGAs/s1600/Mp3%2BTerbaru%2B48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NoLpRjEfOXc/XSoA764wUWI/AAAAAAAAAF8/tKlJXcpBsTkW6j_Cklt8j4d_Cb4GZuWBACLcBGAs/s1600/Mp3%2BTerbaru%2B72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uo4_ao74Bvw/XSoBAln8miI/AAAAAAAAAGA/O2YwvnSJD9A1x6mh4XASKkcfFUCLOy6xACLcBGAs/s1600/Mp3%2BTerbaru%2B96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-sp_sD1hfeAE/XSoBIQerBaI/AAAAAAAAAGI/xSOd8PpFPpEZ2NHiBHh4hyv2SO0hwn6XwCLcBGAs/s1600/Mp3%2BTerbaru%2B144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EnlnRq_NX1Q/XSoBOoo-EHI/AAAAAAAAAGM/171lQnrSBncOTO0oDLWYwkUBTpV3LGR_QCLcBGAs/s1600/Mp3%2BTerbaru%2B168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QbMGDQDlphU/XSoBT0PudxI/AAAAAAAAAGQ/9bX9K0WXyjoiWANp1Tkab9dsKdpSMAy7ACLcBGAs/s1600/Mp3%2BTerbaru%2B192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RnFrtDMl-sA/XSoBYRblYcI/AAAAAAAAAGU/VB3bNF58fHUy7Ju-h5UVwqqN7pZ1QuR3QCLcBGAs/s1600/Mp3%2BTerbaru%2B512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
